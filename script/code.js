@@ -1,2 +1,2 @@
 console.log("My name is Tashreeq Lee")
-console.log("I am studying at Lifechoicesg")
+console.log("I am studying at Lifechoices")
